@@ -1,1 +1,4 @@
-hi from l1
+
+=======
+hi from r1
+>>>>>>> 1e9f821 (added from r1)
